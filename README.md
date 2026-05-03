@@ -1,9 +1,9 @@
 # BCS601-4MW23CS082
 
-## Project Title
+## Project Title ##
 Student Marks Analyzer Web Application using Python
 
-## Introduction
+## Introduction ##
 This project is a simple web-based application developed using Python and Flask.
 
 It calculates:
